@@ -46,6 +46,7 @@ public class Principal {
 		
 		
 		opcionBDD();
+		cerrarConexion();
 		
 		
 		
